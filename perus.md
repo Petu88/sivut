@@ -1,23 +1,28 @@
 # Tietoja minusta
 
-Olen opiskelija Turusta.
+Olen opiskelija Turusta. Harrastuksina maalaus ja saksofoonin soitto. 
+
+<img src="https://www.soitinlaine.fi/media/catalog/product/cache/74daeb03f7d343fc5ee431e800bde6c5/t/j/tj-3830g-soitin-laine.jpg" style="height: 100px; width:100px;"/>
 
 ## Koulutus
 
-### Tietojenkäsittely (AMK), Mikkelin yliopisto
+### Tietojenkäsittely, Mikkelin yliopisto
 
-- 2016-2019
+- 2005 - 2006
 
-### Kokki, Mikkelin lukio
+### Pintakäsittelijä, Mikkelin lukio
 
-- 2016-2019
+- 2003 - 2004
 
 ## Työkokemus
 
 ### Ohjelmistokehittäjä, Mikrosoft Oy
 
-- 2016-2019
+- 2023 - 2024
 
-### Tyhjän toimittaja, Te-palvelut
+### Hyllyjen täyttäjä, Altia Oy
 
-- 2016-2019
+- 2010 - 2012
+
+<br/>
+Ottakaa yhteyttä jos tarvitsette ahkeran ja tunnollisen työntekijän!
