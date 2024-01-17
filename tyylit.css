@@ -7,15 +7,22 @@ h1 {
 }
 h2 {
     font-family: verdana;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: normal;
 }
 h3 {
     font-family: verdana;
-    font-size: 7px;
+    font-size: 8px;
     font-weight: normal;
 }
 p {
     font-family: verdana;
     font-size: 16px;
+}
+a:hover {
+    color: #e10c0c;
+}
+a {
+    color: #0008ff;
+    transition: color 0.2s ease-in-out;
 }
