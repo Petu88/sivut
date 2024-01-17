@@ -3,14 +3,17 @@ body {
 }
 
 h1 {
-    color: blue;
     font-family: verdana;
-    font-size: 300%;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: normal;
 }
 
 p {
-    color: rgb(0, 0, 0);
-    font-family: courier;
-    font-size: 160%;
-    border: 3px solid rgb(0, 0, 0);
+    font-family: verdana;
+    font-size: 16px;
 }
